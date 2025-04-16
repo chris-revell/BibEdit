@@ -1,6 +1,6 @@
 
-filePathIn = "/Users/christopher/Postdoc/Leverhulme Grant/LeverhulmeOverleaf/abbreviated.bib"
-filePathOut = "/Users/christopher/Postdoc/Leverhulme Grant/LeverhulmeOverleaf/abbreviated2.bib"
+filePathIn = "abbreviated.bib"
+filePathOut = "abbreviated2.bib"
  
 f_in = open(filePathIn, "r")
 f_out = open(filePathOut, "w")
